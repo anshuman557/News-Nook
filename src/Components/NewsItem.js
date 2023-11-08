@@ -12,7 +12,7 @@ const NewsItem=(props)=> {
       props;
     return (
       <div className="my-3">
-        <div className="card" style={{ width: "18rem" }}>
+        <div className="card" style={{ width: "19rem" }}>
           <div style={{ display: "flex", justifyContent: "flex-end" }}>
             <span className="position-absolute right-0  badge rounded-pill bg-danger">
               {source}
